@@ -5,3 +5,9 @@ h1{
     /* background-color: brown; */
     border: 2px solid black;
 }
+h2{
+    color: green;
+    background-color: yellow;
+    border: 2px solid black;
+    text-align:center
+}
